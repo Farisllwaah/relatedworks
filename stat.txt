@@ -1,0 +1,17 @@
+Some stats
+Commits: Since launch (Jan, 2013) till now (Apr 2014): 122 commits
+Forks in Github (users in Github who copied the WorkflowSim branch into their own environment): 56 
+Below are part of the user distribution around the world (based on their profile from githubs)
+France: 1
+Canada: 1
+China: 2
+Brazil: 3
+Russia: 1
+Spain: 1
+Thailand: 1
+New Zealand: 1
+India:7
+Singapore: 1
+Iran: 3
+Austria: 1
+
